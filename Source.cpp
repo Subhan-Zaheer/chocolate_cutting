@@ -2,6 +2,10 @@
 #include<vector>
 using namespace std;
 
+//This code snippet is a problem taken from hackerrank.com
+//You can visit this problem using this link.
+//https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true&h_r=next-challenge&h_v=zen
+
 int birthday(int size, int arr[], int d, int m) {
     int count = 0;
     for (int i = 0; i < size; i++) {
